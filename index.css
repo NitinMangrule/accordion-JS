@@ -1,0 +1,29 @@
+
+#container .content{
+    display: none;
+}
+
+#container .active .content {
+    display: block;
+}
+
+.pannel {
+    width: 400px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background:skyblue;
+    color: black;
+}
+
+.header {
+   
+
+    background: #c7eaf0;
+    color: black ;
+}
+
+.content {
+    padding: 10px;
+}
